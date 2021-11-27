@@ -9,3 +9,7 @@
 - widht: 100%
 - display: inline-block
 - float: left
+
+**Project should look like picture below:**
+
+![Columns placed in white background](example.png)
