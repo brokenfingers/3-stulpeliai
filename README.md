@@ -13,3 +13,8 @@
 **Project should look like picture below:**
 
 ![Columns placed in white background](example.png)
+
+
+## Final result (on my screen)
+
+![page displayed in browser](final1.png)
