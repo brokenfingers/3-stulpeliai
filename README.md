@@ -17,4 +17,4 @@
 
 ## Final result (on my screen)
 
-![page displayed in browser](final1.png)
+![page displayed in browser](final1.jpg)

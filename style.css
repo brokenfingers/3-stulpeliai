@@ -1,0 +1,11 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+#bottomLeft div,
+#bottomRight,
+#topBlock div {
+    box-sizing: border-box;
+    padding: 15px
+}
